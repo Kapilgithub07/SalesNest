@@ -121,7 +121,7 @@ salesnest/
 
 ## 👨‍💻 Team
 
-- Mukund And Krishna Garg – Backend + Dashboard UI  
+- Kapil Kumar Jadaun – Backend + Dashboard UI  
 
 ---
 
